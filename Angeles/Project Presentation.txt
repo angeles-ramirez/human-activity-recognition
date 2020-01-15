@@ -46,6 +46,36 @@ and possible uses quickly
 
 
 
+Angeles
+
+Conclusion
+
+Now to bring this back to reality, and to connect our project to what our assignment was. 
+The problem worth analyzing and visualizing was recognizing human activity data with
+machine learning. We had a squeaky clean data set to work with, but we also wanted the 
+challenge, we also aggregated our own data using our smartphones. Within a short time
+(2 minutes) the smarphone has enough data to determine what its user is doing(95%: 6 activities).
+By linking these insights of more personal data of the participants, extensivee options open
+up. 
+
+In addition, these insights have be extracted from using smartphone sensor applications
+that can be found on Apple and Android app stores. 
+
+
+What did we learn?
+
+- our control group was not as controlled as it could have compared to the existing
+dataset provided by a team that already conducted this project
+
+- we learned how to keep data consistent
+- we learned how to scale our model with 6 activities instead of working with than a 
+  handful of activities
+- we learned that we don't need to use everything we learned if it is not necessary
+
+
+
+
+
 
 
 
