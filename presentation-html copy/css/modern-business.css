@@ -15,13 +15,6 @@ body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-
 .img-portfolio {
     margin-bottom: 30px;
 }
@@ -58,10 +51,6 @@ body {
 /* Home Page Carousel */
 
 header.carousel {
-    height: 100%;
-}
-
-header.carousel2 {
     height: 50%;
 }
 
